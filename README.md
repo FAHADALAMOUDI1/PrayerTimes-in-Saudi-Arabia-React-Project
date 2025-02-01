@@ -1,5 +1,8 @@
 # Prayer Times in Saudi Arabia - React Project
 
+![prayar](https://github.com/user-attachments/assets/53615a3b-18db-482c-9baf-bc6652d7d054)
+
+
 # Overview
 This project is a web application built with React that provides accurate prayer times for cities in Saudi Arabia. It utilizes an external API to fetch real-time prayer timings based on the user's selected location. The app is designed to be user-friendly, responsive, and easy to use for Muslims in Saudi Arabia who want to stay updated with their daily prayer schedules.
 
